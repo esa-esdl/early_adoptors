@@ -36,7 +36,12 @@ git push origin master
 
 ## Don't want to have it in the Public Space yet
 
-In that case, you can use the same strategy as above. However, you should fork the repo into xour ew space. Once you are happy, you 
-can start a so-called Pull Request from teh GitHub Website. The admin user will then merge your notebook into teh master repository.
+In that case, you can use the same strategy as above. However, you should fork the repo into xour ew space. Once you are happy, you can start a so-called Pull Request from teh GitHub Website. The admin user will then merge your notebook into teh master repository.
+
+![fork](https://user-images.githubusercontent.com/42441761/57284447-78d10f80-70b1-11e9-9a07-07ff2fccd19d.png)
+
+![pr](https://user-images.githubusercontent.com/42441761/57284580-c0f03200-70b1-11e9-8533-9fc2315eb431.png)
+
+
 
 
